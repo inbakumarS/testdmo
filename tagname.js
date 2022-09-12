@@ -1,7 +1,7 @@
 let li=document.getElementsByTagName('li');
 console.log(li);
 console.log(li[1]);
-li[i].textContent='hello';
+li[1].textContent='hello';
 li[2].style.backgroundC0lor='#f4f4f4';
 
 
